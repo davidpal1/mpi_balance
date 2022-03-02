@@ -19,3 +19,4 @@ export RDMAV_FORK_SAFE=1
 
 time mpirun -np 16 --map-by ppr:8:node Rscript hello_balance.R
 #komentar -zkouskadsafsaf
+#komentar 2
