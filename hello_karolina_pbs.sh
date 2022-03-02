@@ -18,4 +18,4 @@ export OMPI_MCA_mpi_warn_on_fork=0
 export RDMAV_FORK_SAFE=1
 
 time mpirun -np 16 --map-by ppr:8:node Rscript hello_balance.R
-#komentar -zkouska
+#komentar -zkouskadsafsaf
